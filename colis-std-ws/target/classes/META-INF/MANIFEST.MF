@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Administrateur
+Build-Jdk: 21.0.2
+Implementation-Title: colis-std-ws
+Implementation-Version: 1.0.1-SNAPSHOT
+Implementation-Vendor-Id: eu.fr.indyli.formation.ws.ecolis
+Implementation-URL: https://spring.io/projects/spring-boot/colis-std-ws
+Created-By: Maven Integration for Eclipse
+
